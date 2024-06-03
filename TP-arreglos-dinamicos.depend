@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717364067 source:c:\users\matti\documents\proyectos\c\tp-arreglos-dinamicos\main.c
+	<stdio.h>
+	<stdlib.h>
+
